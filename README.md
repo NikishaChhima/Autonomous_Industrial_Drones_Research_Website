@@ -10,7 +10,7 @@ This project required us to create a website where users could understand and ex
 - HTML/CSS
 
 <h2>Group Project Distribution:</h2>
-As this was a group assignment (3 people, including myself), we needed to ensure even work distribution. I was the group leader, so we discussed what their preference was. They both concluded that they would prefer researching and wirting while I did all the coding for the website. This was my first time coding with HMTL/CSS. 
+As this was a group assignment (3 people, including myself), we needed to ensure even work distribution. I was the group leader, so we discussed what their preference was. They both concluded that they would prefer researching and writing while I did all the coding for the website. This was my first time coding with HMTL/CSS. 
 </p>
 
 <!--
